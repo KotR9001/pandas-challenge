@@ -22,7 +22,7 @@ Purchasing Analysis (Gender)
 -The below each broken by gender
   -Purchase Count
   -Average Purchase Price
-  -Total Purchase Value
+  -Total Purchase
   -Average Purchase Total per Person by Gender
 
 Age Demographics
