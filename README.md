@@ -34,7 +34,7 @@ Used Python with the Pandas library to create dataframes and determine the follo
   -Average Purchase Price<br />
   -Total Purchase Value<br />
   -Average Purchase Total per Person by Age Group<br />
-![image](https://github.com/KotR9001/pandas-challenge/assets/57807780/fe329a7e-9e3f-4410-9f78-a39096143d3a)
+![image](https://github.com/KotR9001/pandas-challenge/assets/57807780/af32a37a-47d2-4e15-93b2-a784044e50f6)
 <br />
 <b>Top Spenders</b><br />
 -The top 5 spenders in the game by total purchase value, then list (in a table):<br />
