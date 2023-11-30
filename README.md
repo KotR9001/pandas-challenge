@@ -1,7 +1,7 @@
 # pandas-challenge
 Gaming Analysis
 
-Undertook this endeavor to analyze demographical trends in a popular online game.
+Undertook this endeavor to analyze demographical trends in a popular online game.<br />
 
 Used Python with the Pandas library to create dataframes and determine the following:<br />
 <b>Player Count</b><br />
