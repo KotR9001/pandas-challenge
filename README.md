@@ -5,6 +5,7 @@ Undertook this endeavor to analyze demographical trends in a popular online game
 
 Used Python with the Pandas library to create dataframes and determine the following:<br />
 <b>Player Count</b><br />
+![image](https://github.com/KotR9001/pandas-challenge/assets/57807780/ace6ea1d-4807-4d21-9245-91c07459e379)
 <br />
 <b>Purchasing Analysis (Total)</b><br />
 -Number of Unique Items<br />
