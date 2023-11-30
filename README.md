@@ -59,5 +59,5 @@ Used Python with the Pandas library to create dataframes and determine the follo
   -Item Name<br />
   -Purchase Count<br />
   -Item Price<br />
-  -Total Purchase Value
+  -Total Purchase Value<br />
 ![image](https://github.com/KotR9001/pandas-challenge/assets/57807780/2552a8e1-2775-4bf3-9d86-9f7f13ab261f)
